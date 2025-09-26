@@ -1,8 +1,6 @@
+// SINDAYIGAYA Samuel  223004485
+
 package com.LoanCalculator;
-
-
-
-
 
 import javax.swing.*;
 import java.awt.*;
@@ -91,4 +89,5 @@ public class LoanCalculatorGUI extends JFrame {
             new LoanCalculatorGUI().setVisible(true);
         };
     }
+
 
