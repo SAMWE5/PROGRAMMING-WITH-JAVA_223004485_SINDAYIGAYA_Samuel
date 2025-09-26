@@ -1,5 +1,6 @@
 //SINDAYIGAYA SAMUEL 223004485
 //NSABIYUMVA JEAN MARIE VIANNEY 223008033
+//IRADUKUNDA Epiphanie 223015618
 package Rectcalculator;
 
 import java.util.Scanner;
@@ -47,6 +48,7 @@ public static void main(String[] args) {
     scanner.close();
 }
 }
+
 
 
 
