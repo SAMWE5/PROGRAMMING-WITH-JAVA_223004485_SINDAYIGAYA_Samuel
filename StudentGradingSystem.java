@@ -1,3 +1,4 @@
+// SINDAYIGAYA Samuel 223004485
 package COM.GRADINGSYSTEM;
 
 import java.util.Scanner;
@@ -69,4 +70,5 @@ public class StudentGradingSystem {
 
 	        sc.close();
 	    }
+
 	}
