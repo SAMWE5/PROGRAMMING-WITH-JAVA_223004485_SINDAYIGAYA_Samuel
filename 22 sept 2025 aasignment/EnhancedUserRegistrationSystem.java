@@ -1,3 +1,4 @@
+// SINDAYIGAYA Samuel 223004485
 package RegistrationSystem;
 
 import javax.swing.*;
@@ -206,8 +207,8 @@ public class EnhancedUserRegistrationSystem {
     
     private void togglePasswordVisibility() {
         boolean show = showPasswordCheckBox.isSelected();
-        passwordField.setEchoChar(show ? (char) 0 : '•');
-        confirmPasswordField.setEchoChar(show ? (char) 0 : '•');
+        passwordField.setEchoChar(show ? (char) 0 : 'â€¢');
+        confirmPasswordField.setEchoChar(show ? (char) 0 : 'â€¢');
     }
     
     private void showError(String message) {
@@ -255,3 +256,4 @@ public class EnhancedUserRegistrationSystem {
           new EnhancedUserRegistrationSystem().show();
         };
    }
+
