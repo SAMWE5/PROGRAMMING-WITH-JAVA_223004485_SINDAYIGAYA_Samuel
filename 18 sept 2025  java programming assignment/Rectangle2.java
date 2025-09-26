@@ -1,5 +1,6 @@
-// SINDAYIGAYA Samuel 223004485
-//NSABIYUMVA Jean Marie 223008033
+//SINDAYIGAYA SAMUEL 223004485
+//NSABIYUMVA JEAN MARIE VIANNEY 223008033
+//IRADUKUNDA Epiphanie 223015618
 import java.util.Scanner;
 public class Rectangle2 {
 	  private double length;
@@ -40,5 +41,6 @@ public class Rectangle2 {
 		
 
 	}
+
 
 
