@@ -1,3 +1,4 @@
+// SINDAYIGAYA Samuel 223004485
 package supermarketbilling;
 
 import java.util.Scanner;
@@ -67,5 +68,6 @@ public class SuperMarketBillingsystem {
 		
 
 	}
+
 
 
