@@ -1,3 +1,4 @@
+// SINDAYIGAYA Samuel 223004485
 package Case3;
 
 
@@ -76,4 +77,5 @@ package Case3;
 	        sc.close();
 	    }
 	}
+
 
