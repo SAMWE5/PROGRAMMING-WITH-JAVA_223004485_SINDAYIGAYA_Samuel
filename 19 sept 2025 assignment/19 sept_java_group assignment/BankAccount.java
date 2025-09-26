@@ -1,8 +1,6 @@
-//SINDAYIGAYA Samuel 223004485
-//NSABIYUMVA Jean Marie 
-//IRADUKUNDA Epiphanie 223015
-
-
+//SINDAYIGAYA SAMUEL 223004485
+//NSABIYUMVA JEAN MARIE VIANNEY 223008033
+//IRADUKUNDA Epiphanie 223015618
 // Case1_BankAccount.java
 import java.util.*;
 
@@ -76,4 +74,5 @@ class BankAccount {
         System.out.println(a2);
     }
 }
+
 
