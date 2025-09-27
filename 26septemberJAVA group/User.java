@@ -1,4 +1,6 @@
-package com.SFMS;
+//SINDAYIGAYA SAMUEL 223004485
+//NSABIYUMVA JEAN MARIE VIANNEY 223008033
+//IRADUKUNDA Epiphanie 223015618package com.SFMS;
 
 //User.java
 import java.time.LocalDateTime;
@@ -41,4 +43,5 @@ public class User {
  
  public LocalDateTime getCreatedAt() { return createdAt; }
  public void setCreatedAt(LocalDateTime createdAt) { this.createdAt = createdAt; }
+
 }
