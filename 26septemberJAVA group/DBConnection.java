@@ -1,4 +1,6 @@
-package com.SFMS;
+//SINDAYIGAYA SAMUEL 223004485
+//NSABIYUMVA JEAN MARIE VIANNEY 223008033
+//IRADUKUNDA Epiphanie 223015618package com.SFMS;
 import java.sql.*;
 
 public class DBConnection {
@@ -15,4 +17,5 @@ public class DBConnection {
             throw new SQLException("MySQL JDBC Driver not found", e);
         }
     }
+
 }
