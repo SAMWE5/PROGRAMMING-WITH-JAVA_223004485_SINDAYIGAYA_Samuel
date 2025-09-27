@@ -1,4 +1,6 @@
-package com.SFMS;
+//SINDAYIGAYA SAMUEL 223004485
+//NSABIYUMVA JEAN MARIE VIANNEY 223008033
+//IRADUKUNDA Epiphanie 223015618package com.SFMS;
 
 import javax.swing.*;
 import java.awt.*;
@@ -111,4 +113,5 @@ public class MainApplication extends JFrame {
             }
         });
     }
+
 }
