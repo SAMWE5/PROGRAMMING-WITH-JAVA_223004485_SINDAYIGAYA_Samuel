@@ -1,4 +1,6 @@
-package com.SFMS;
+//SINDAYIGAYA SAMUEL 223004485
+//NSABIYUMVA JEAN MARIE VIANNEY 223008033
+//IRADUKUNDA Epiphanie 223015618package com.SFMS;
 
 //FeeStructure.java
 import java.time.LocalDate;
@@ -42,3 +44,4 @@ public class FeeStructure {
  public String getNotes() { return notes; }
  public void setNotes(String notes) { this.notes = notes; }
 }
+
