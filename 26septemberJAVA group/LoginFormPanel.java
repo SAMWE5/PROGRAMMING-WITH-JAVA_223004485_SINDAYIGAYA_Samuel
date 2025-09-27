@@ -1,4 +1,6 @@
-package com.SFMS;
+//SINDAYIGAYA SAMUEL 223004485
+//NSABIYUMVA JEAN MARIE VIANNEY 223008033
+//IRADUKUNDA Epiphanie 223015618package com.SFMS;
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.ActionEvent;
@@ -127,4 +129,5 @@ public class LoginFormPanel extends JPanel {
             return false;
         }
     }
+
 }
