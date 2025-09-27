@@ -1,4 +1,6 @@
-package com.SFMS;
+//SINDAYIGAYA SAMUEL 223004485
+//NSABIYUMVA JEAN MARIE VIANNEY 223008033
+//IRADUKUNDA Epiphanie 223015618package com.SFMS;
 
 //Student.java
 import java.time.LocalDate;
@@ -42,4 +44,5 @@ public class Student {
  public String getStatus() { return status; }
  public void setStatus(String status) { this.status = status; }
 }
+
 
