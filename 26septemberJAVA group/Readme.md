@@ -1,0 +1,12 @@
+NAMES& regno:         SINDAYIGAYA SAMUEL                  223004485 
+                      NSABIYUMVA JEAN MARIE VIANNEY       223008033
+                      IRADUKUNDA Epiphanie                223015618
+
+GROUP NO:Group number 28
+
+PROJECT TITLE/NAME:  SCHOOL FEE MANAGEMENT SYSTEM
+DATE:26 september 2025
+MODULE TITLE: PROGRAMMING WITH JAVA
+
+
+
