@@ -1,6 +1,6 @@
 //SINDAYIGAYA SAMUEL 223004485
 //NSABIYUMVA JEAN MARIE VIANNEY 223008033
-//IRADUKUNDA Epiphanie 223015618
+
 package Casestudy4;
 
 import java.util.Scanner;
@@ -43,5 +43,6 @@ public class ShapeChooser {
 		sc.close();
 	}
 }
+
 
 
