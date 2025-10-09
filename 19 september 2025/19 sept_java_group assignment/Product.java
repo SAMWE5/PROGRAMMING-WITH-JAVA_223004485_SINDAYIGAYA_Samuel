@@ -1,3 +1,5 @@
+//SINDAYIGAYA SAMUEL 223004485
+//NSABIYUMVA JEAN MARIE VIANNEY 223008033
 // Case5_ShoppingCart.java
 import java.util.*;
 
@@ -44,3 +46,4 @@ public class Case5_ShoppingCart {
         System.out.println("Discount applied? " + (discountApplied ? "Yes" : "No"));
     }
 }
+
