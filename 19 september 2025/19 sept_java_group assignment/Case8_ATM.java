@@ -1,3 +1,5 @@
+//SINDAYIGAYA SAMUEL 223004485
+//NSABIYUMVA JEAN MARIE VIANNEY 223008033
 // Case8_ATM.java
 import java.util.*;
 
@@ -58,3 +60,4 @@ public class Case8_ATM {
         System.out.printf("Final balance: %.2f%n", atm.checkBalance());
     }
 }
+
