@@ -1,3 +1,5 @@
+//SINDAYIGAYA SAMUEL 223004485
+//NSABIYUMVA JEAN MARIE VIANNEY 223008033
 // Case1_BankAccount.java
 import java.util.*;
 
@@ -71,3 +73,4 @@ class BankAccount {
         System.out.println(a2);
     }
 }
+
