@@ -1,3 +1,5 @@
+//SINDAYIGAYA SAMUEL 223004485
+//NSABIYUMVA JEAN MARIE VIANNEY 223008033
 // Case9_HotelBooking.java
 import java.util.*;
 
@@ -39,3 +41,4 @@ public class Case9_HotelBooking {
         System.out.printf("Total bill (after discount if any): %.2f%n", bill);
     }
 }
+
