@@ -1,3 +1,5 @@
+//SINDAYIGAYA SAMUEL 223004485
+//NSABIYUMVA JEAN MARIE VIANNEY 223008033
 // Case2_StudentGrades.java
 import java.util.*;
 
@@ -53,3 +55,4 @@ class Student {
         System.out.printf("Highest average: %.2f (Student: %s)%n", highestAvg, best != null ? best.toString() : "none");
     }
 }
+
