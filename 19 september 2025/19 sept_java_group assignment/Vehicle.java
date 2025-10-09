@@ -1,3 +1,5 @@
+//SINDAYIGAYA SAMUEL 223004485
+//NSABIYUMVA JEAN MARIE VIANNEY 223008033
 // Case7_Vehicles.java
 import java.util.*;
 
@@ -70,3 +72,4 @@ public class Case7_Vehicles {
         }
     }
 }
+
