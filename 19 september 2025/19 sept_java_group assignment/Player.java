@@ -1,3 +1,5 @@
+//SINDAYIGAYA SAMUEL 223004485
+//NSABIYUMVA JEAN MARIE VIANNEY 223008033
 // Case10_TeamsPlayers.java
 import java.util.*;
 
@@ -79,3 +81,4 @@ public class Case10_TeamsPlayers {
         System.out.println("Team with highest total score: " + (bestTeam != null ? bestTeam.getName() + " (" + highestTotal + ")" : "none"));
     }
 }
+
