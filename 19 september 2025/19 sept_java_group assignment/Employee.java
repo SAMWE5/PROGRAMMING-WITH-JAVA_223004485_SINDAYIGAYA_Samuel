@@ -1,3 +1,5 @@
+//SINDAYIGAYA SAMUEL 223004485
+//NSABIYUMVA JEAN MARIE VIANNEY 223008033
 // Case3_EmployeeSalary.java
 import java.util.*;
 
@@ -67,3 +69,4 @@ public class Case3_EmployeeSalary {
         System.out.printf("Total salary expenditure: %.2f%n", total);
     }
 }
+
