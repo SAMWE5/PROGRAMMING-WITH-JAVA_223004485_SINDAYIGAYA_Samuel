@@ -1,3 +1,5 @@
+//SINDAYIGAYA SAMUEL 223004485
+//NSABIYUMVA JEAN MARIE VIANNEY 223008033
 // Case4_ShapeAreaCalculator.java
 import java.util.*;
 
@@ -42,3 +44,4 @@ public class Case4_ShapeAreaCalculator {
         System.out.printf("Total area of all shapes: %.2f%n", totalArea);
     }
 }
+
